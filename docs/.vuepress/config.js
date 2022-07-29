@@ -10,9 +10,10 @@ module.exports = {
         sidebar: {
             '/frontend/': getResumenesSidebar()
         },
-        lastUpdated: 'Last Updated'
+        
 
     },
+    plugins: ['@vuepress/last-updated']
 };
 
 function getResumenesSidebar() {
