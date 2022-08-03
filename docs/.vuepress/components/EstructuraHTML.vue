@@ -10,7 +10,7 @@
             <p class="doctype"> <span> DOCTYPE →</span> Indica al navegador como debe interpretar el documento.</p>
             <p> <span> HTML →</span> Envuelve todo el contenido de la página, es el elemento raíz y la etiqueta
                 principal.</p>
-            <p> <span> HEAD →</span> Aquí va la información para el navegador.</p>
+            <p> <router-link to="#head"><span> HEAD</span></router-link> <span>→</span> Aquí va la información para el navegador, es decir los <span>metadatos</span>.</p>
             <p> <span> BODY →</span> Aquí va el contenido para mostrar al usuario.</p>
 
         </div>

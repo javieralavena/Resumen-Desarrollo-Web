@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Resumen Desarrollo Web',
-    description: 'Aquí pondré un resumen de todo lo que vaya estudiando sobre el Desarrollo Web',
+    description: 'Aquí pondré un resumen de todo lo que he estudiado sobre el Desarrollo Web',
     themeConfig: {
         nav: [
 
